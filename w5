@@ -1,6 +1,18 @@
 <!DOCTYPE html>
 <html>
- <head>
-  <h1>Let's suit up</h1>
- </head>
+ <header>
+  <h1>金融商品</h1>
+ </header>
+ <ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link 股票" aria-current="page" href="#">股票</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">債券</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">權證</a>
+  </li>
+</ul>
+ 
 </html>
