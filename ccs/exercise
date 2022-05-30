@@ -4,12 +4,12 @@
     <meta charset="utf-8">
 	<title>CCS exercise</title>
   <style>
-   #orange {text-shadow: 10px 10px 5px #ff9900;}
-   #grey {text-shadow: 13px 13px 5px grey, 25px 25px 5px grey}
+   #orange {text-shadow: 10px 10px 5px orange;}
+   #gray {text-shadow: 13px 13px 5px gray, 25px 25px 5px silver;}
   </style>
   </head>	
   <body>
     <h1 id="orange">Hi~world~</h1>
-    <h1 id="grey">Hi~world~</h1>
+    <h1 id="gray">Hi~world~</h1>
   </body>
 </html>
